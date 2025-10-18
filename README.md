@@ -3,7 +3,7 @@
   <h1>🚀 PasteHub 🚀</h1>
   <p><strong>Your personal, in-browser pastebin. Create, edit, and share text snippets with lightning speed. All your data, saved locally. 💾</strong></p>
 
-<p>
+  <p>
     <a href="https://github.com/ChachanNaman/Notes-Saver/stargazers"><img src="https://img.shields.io/github/stars/ChachanNaman/Notes-Saver?style=for-the-badge&color=e8c547" alt="Stars"></a>
     <a href="https://github.com/ChachanNaman/Notes-Saver/network/members"><img src="https://img.shields.io/github/forks/ChachanNaman/Notes-Saver?style=for-the-badge&color=59a5d8" alt="Forks"></a>
     <a href="https://github.com/ChachanNaman/Notes-Saver/issues"><img src="https://img.shields.io/github/issues/ChachanNaman/Notes-Saver?style=for-the-badge&color=f44336" alt="Issues"></a>
@@ -31,7 +31,7 @@ Here's a sneak peek of PasteHub in action.
 
 | All Pastes Page | Create Paste Page | Edit Paste Page | View Paste Page |
 |:---:|:---:|:---:|:---:|
-| ![All Pastes Page](./screenshots/AllPaste.png) | ![Create Paste Page](./screenshots/CreatePaste.png) | ![Edit Paste Page](./screenshots/EditPaste.png) | ![View Paste Page](./screenshots/ViewPaste.png) |
+| <img src="./screenshots/AllPaste.png" alt="All Pastes Page" width="100%"> | <img src="./screenshots/CreatePaste.png" alt="Create Paste Page" width="100%"> | <img src="./screenshots/EditPaste.png" alt="Edit Paste Page" width="100%"> | <img src="./screenshots/ViewPaste.png" alt="View Paste Page" width="100%"> |
 
 ---
 
@@ -82,8 +82,8 @@ Ready to run PasteHub on your local machine? Let's get you set up in minutes.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/pastehub.git](https://github.com/your-username/pastehub.git)
-    cd pastehub
+    git clone [https://github.com/ChachanNaman/Notes-Saver.git](https://github.com/ChachanNaman/Notes-Saver.git)
+    cd Notes-Saver
     ```
 
 2.  **Install Dependencies:**
@@ -114,6 +114,8 @@ PasteHub is awesome, but the journey doesn't stop here. Here are some of the pla
 
 ## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ChachanNaman/Notes-Saver/issues).
+
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -129,5 +131,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <p>Naman Chachan</p>
+  <p>Made by <a href="https://github.com/ChachanNaman">Naman Chachan</a></p>
 </div>
