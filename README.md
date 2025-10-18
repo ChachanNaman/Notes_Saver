@@ -4,7 +4,7 @@
   <p><strong>Your personal, in-browser pastebin. Create, edit, and share text snippets with lightning speed. All your data, saved locally. 💾</strong></p>
 
   <p>
-    <a href="https://github.com/your-username/pastehub/stargazers"><img src="https://img.shields.io/github/stars/your-username/pastehub?style=for-the-badge&color=e8c547" alt="Stars"></a>
+    <a href="https://github.com/ChachanNaman/Notes-Saver/stargazers">...</a>
     <a href="https://github.com/your-username/pastehub/network/members"><img src="https://img.shields.io/github/forks/your-username/pastehub?style=for-the-badge&color=59a5d8" alt="Forks"></a>
     <a href="https://github.com/your-username/pastehub/issues"><img src="https://img.shields.io/github/issues/your-username/pastehub?style=for-the-badge&color=f44336" alt="Issues"></a>
   </p>
@@ -24,8 +24,22 @@ Ever needed to quickly save a code snippet, a brilliant idea, or a long command,
 
 This project is a testament to the power of modern frontend technologies, creating a seamless user experience without needing a backend.
 
-> **💡 Pro Tip:** Add a GIF of your application in action right here! It's the best way to show off your awesome UI.
-> ![PasteHub App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif)
+---
+## 📸 Live Preview
+
+Here's a sneak peek of PasteHub in action.
+
+| All Pastes Page | Create Paste Page | Edit Paste Page | View Paste Page |
+|:---:|:---:|:---:|:---:|
+| ![All Pastes Page](./screenshots/AllPaste.png) | ![Create Paste Page](./screenshots/CreatePaste.png) | ![Edit Paste Page](./screenshots/EditPaste.png) | ![View Paste Page](./screenshots/ViewPaste.png) |
+
+---
+
+## 📚 Documentation
+
+Want a deep dive into the project's architecture, setup, and features? Check out the full documentation.
+
+➡️ **[View Project Documentation PDF](./Documentation.pdf)**
 
 ---
 
@@ -100,8 +114,6 @@ PasteHub is awesome, but the journey doesn't stop here. Here are some of the pla
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/pastehub/issues).
-
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -117,5 +129,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Naman Chachan</p>
 </div>
