@@ -36,13 +36,10 @@ function App() {
     ]
   )
   return (
-    <div>
+    <div className="min-h-screen bg-background">
       <RouterProvider router = {router}/>
     </div>
   )
 }
 
 export default App
-
-
-//hello ji
