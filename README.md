@@ -8,12 +8,6 @@
     <a href="https://github.com/ChachanNaman/Notes_Saver/network/members"><img src="https://img.shields.io/github/forks/ChachanNaman/Notes_Saver?style=for-the-badge&color=59a5d8" alt="Forks"></a>
     <a href="https://github.com/ChachanNaman/Notes_Saver/issues"><img src="https://img.shields.io/github/issues/ChachanNaman/Notes_Saver?style=for-the-badge&color=f44336" alt="Issues"></a>
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
-  </p>
 </div>
 
 ---
@@ -57,7 +51,16 @@ Want a deep dive into the project's architecture, setup, and features? Check out
 
 ## 🛠️ Technology Stack
 
-This project is built with a modern, scalable, and efficient tech stack:
+This project is built with a modern, scalable, and efficient tech stack.
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
+  </p>
+</div>
 
 * **Core Framework:** [React 18](https://reactjs.org/)
 * **State Management:** [Redux Toolkit](https://redux-toolkit.js.org/)
