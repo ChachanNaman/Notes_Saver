@@ -4,9 +4,9 @@
   <p><strong>Your personal, in-browser pastebin. Create, edit, and share text snippets with lightning speed. All your data, saved locally. 💾</strong></p>
 
   <p>
-    <a href="https://github.com/ChachanNaman/Notes-Saver/stargazers"><img src="https://img.shields.io/github/stars/ChachanNaman/Notes-Saver?style=for-the-badge&color=e8c547" alt="Stars"></a>
-    <a href="https://github.com/ChachanNaman/Notes-Saver/network/members"><img src="https://img.shields.io/github/forks/ChachanNaman/Notes-Saver?style=for-the-badge&color=59a5d8" alt="Forks"></a>
-    <a href="https://github.com/ChachanNaman/Notes-Saver/issues"><img src="https://img.shields.io/github/issues/ChachanNaman/Notes-Saver?style=for-the-badge&color=f44336" alt="Issues"></a>
+    <a href="https://github.com/ChachanNaman/Notes_Saver/stargazers"><img src="https://img.shields.io/github/stars/ChachanNaman/Notes_Saver?style=for-the-badge&color=e8c547" alt="Stars"></a>
+    <a href="https://github.com/ChachanNaman/Notes_Saver/network/members"><img src="https://img.shields.io/github/forks/ChachanNaman/Notes_Saver?style=for-the-badge&color=59a5d8" alt="Forks"></a>
+    <a href="https://github.com/ChachanNaman/Notes_Saver/issues"><img src="https://img.shields.io/github/issues/ChachanNaman/Notes_Saver?style=for-the-badge&color=f44336" alt="Issues"></a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
@@ -82,8 +82,8 @@ Ready to run PasteHub on your local machine? Let's get you set up in minutes.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/ChachanNaman/Notes-Saver.git](https://github.com/ChachanNaman/Notes-Saver.git)
-    cd Notes-Saver
+    git clone [https://github.com/ChachanNaman/Notes_Saver.git](https://github.com/ChachanNaman/Notes_Saver.git)
+    cd Notes_Saver
     ```
 
 2.  **Install Dependencies:**
@@ -114,7 +114,7 @@ PasteHub is awesome, but the journey doesn't stop here. Here are some of the pla
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ChachanNaman/Notes-Saver/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ChachanNaman/Notes_Saver/issues).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
