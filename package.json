@@ -1,5 +1,22 @@
 {
-  "dependencies": {
-    "react-hot-toast": "^2.6.0"
-  }
+  "name": "pastehub",
+  "version": "2.0.0",
+  "description": "Full-stack paste application with MongoDB backend and authentication",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd paste-app && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd paste-app && npm run dev"
+  },
+  "keywords": [
+    "paste",
+    "pastebin",
+    "mongodb",
+    "react",
+    "express",
+    "full-stack"
+  ],
+  "author": "Naman Chachan",
+  "license": "MIT"
 }
