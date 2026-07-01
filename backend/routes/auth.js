@@ -35,7 +35,7 @@ router.post('/register', [
         errors: errors.array()
       });
     }
-
+//
     const { username, email, password } = req.body;
 
     // Check if user already exists
