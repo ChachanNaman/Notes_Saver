@@ -9,7 +9,7 @@ const router = express.Router();
 const generateToken = (userId) => {
   return jwt.sign({ userId }, process.env.JWT_SECRET, { expiresIn: '30d' });
 };
-
+//
 // @route   POST /api/auth/register
 // @desc    Register a new user
 // @access  Public
@@ -35,7 +35,7 @@ router.post('/register', [
         errors: errors.array()
       });
     }
-
+//
     const { username, email, password } = req.body;
 
     // Check if user already exists
